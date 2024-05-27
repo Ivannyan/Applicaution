@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1090515830497",
+    "firebase_url": "https://applicaution-95c8d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "applicaution-95c8d",
+    "storage_bucket": "applicaution-95c8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090515830497:android:f79c28e3c282d89551d9a0",
+        "android_client_info": {
+          "package_name": "com.kana.Applicaution"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqSILk5wN_Hdl3x_FRoFvvNimJeTNU56A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

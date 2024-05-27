@@ -1,0 +1,19 @@
+[
+    {
+      "name": "MDRRMO TIAONG",
+      "email": "mdrrmo@applicaution.com",
+      "password": "mdrrmotiaong",
+      "isAdmin": true
+    },
+    {
+      "email": "admin2@example.com",
+      "password": "password2",
+      "isAdmin": true
+    },
+    {
+      "email": "user@example.com",
+      "password": "userpassword",
+      "isAdmin": false
+    }
+  ]
+  
